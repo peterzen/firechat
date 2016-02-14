@@ -30,6 +30,6 @@
     "changelog.txt"
   ],
   "dependencies": {
-    "firebase": "2.0.x"
+    "firebase": "2.4.x"
   }
 }
